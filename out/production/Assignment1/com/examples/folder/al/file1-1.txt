@@ -1,0 +1,7 @@
+Tekst në shqip.
+Përshëndetje!
+Unë jam Doriela Grabocka. Jam studente në Shkencë Komjuterike në
+Universitetin e Nju Jorkut në Tiranë.
+Më pëlqen matematika, dhe programimi. Gjuhët e programimit që kemi mësuar në shkolle
+përfshijnë: C#, Java, C++,etj.
+Kjo është detyra e parë në lëndën e gjuhës Java të Avancuar.
